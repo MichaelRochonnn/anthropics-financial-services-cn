@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Services"
+  short_description: "Route financial-services workflows to specialist skills"
+  default_prompt: "Use $financial-services to prepare a financial analysis workflow and route to the right specialist skill."
