@@ -1,5 +1,9 @@
 # Financial Services Codex Skill
 
+## About
+
+Financial Services Codex Skill is a lightweight Codex adaptation of Anthropic's financial-services marketplace content. It acts as a routing layer for professional finance workflows, helping Codex choose the right specialist skill for equity research, valuation, investment banking, private equity, wealth management, fund administration, KYC, and partner-data analysis. The goal is to preserve the original workflow logic while making it usable inside a local Codex skills environment.
+
 Codex-compatible routing skill converted from the Anthropic `financial-services` marketplace content.
 
 This repository is intentionally lightweight: it provides a top-level Codex Skill that routes broad financial-services tasks to specialist skills already installed under `~/.codex/skills`.
